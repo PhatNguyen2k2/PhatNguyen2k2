@@ -1,3 +1,3 @@
 ### Hi I'm Fats 🐱‍💻🐱‍💻
 ![Phat's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhatNguyen2k2&theme=tokionight&show_icons=true)
-![Phat's GitHub repo](https://github-readme-repo.vercel.app/api?username=PhatNguyen2k2&theme=tokionight&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhatNguyen2k2&layout=compact)](https://github.com/PhatNguyen2k2/github-readme-stats)
