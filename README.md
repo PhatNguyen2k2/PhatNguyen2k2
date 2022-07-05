@@ -1,10 +1,5 @@
 ### Hi I'm Fats 🐱‍💻🐱‍💻
 ![snake svg](https://github.com/PhatNguyen2k2/PhatNguyen2k2/blob/output/github-contribution-grid-snake.svg)
-# Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PhatNguyen2k2&theme=tokyonight&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhatNguyen2k2&layout=compact&theme=tokyonight)](https://github.com/PhatNguyen2k2/github-readme-stats)
-# Profile Summary
-![GitHub Profile Summary stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhatNguyen2k2&theme=tokyonight&show_icons=true)
 # Languages and Tools
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -20,3 +15,9 @@
 <img src="https://www.svgrepo.com/show/303232/mongodb-logo.svg" alt="mongodb" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
 </p>
+
+# Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PhatNguyen2k2&theme=tokyonight&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhatNguyen2k2&layout=compact&theme=tokyonight)](https://github.com/PhatNguyen2k2/github-readme-stats)
+# Profile Summary
+![GitHub Profile Summary stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhatNguyen2k2&theme=tokyonight&show_icons=true)
