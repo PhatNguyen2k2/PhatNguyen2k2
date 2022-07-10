@@ -12,8 +12,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/handlebarsjs/handlebarsjs-icon.svg" alt="handelbars" width="40" height="40"/>
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql server" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySql" width="40" height="40"/>
 <img src="https://www.svgrepo.com/show/303232/mongodb-logo.svg" alt="mongodb" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" alt="dot net" width="40" height="40"/>
 </p>
 
 # Stats
